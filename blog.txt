@@ -1,0 +1,7 @@
+https://sallam.gitbook.io/sec-88/bug-bounty/hunting-methodology
+https://www.ophionsecurity.com/blog
+https://labs.detectify.com
+https://moyix.blogspot.com/
+https://cellebrite.com/en/
+https://www.lasso.security/blog
+https://osv.dev/blog/
