@@ -6,3 +6,5 @@ https://cellebrite.com/en/
 https://www.lasso.security/blog
 https://osv.dev/blog/
 https://thehackerblog.com/
+https://www.validin.com/blog/
+https://trufflesecurity.com/blog
