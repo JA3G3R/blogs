@@ -8,3 +8,4 @@ https://osv.dev/blog/
 https://thehackerblog.com/
 https://www.validin.com/blog/
 https://trufflesecurity.com/blog
+https://www.clutch.security/blog/
